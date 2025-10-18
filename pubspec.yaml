@@ -1,8 +1,8 @@
-name: lolcms_danmaku
+name: canvas_danmaku
 description: "A high performance danmaku lib for flutter."
-version: 1.0.0
-author: admin@ovofun.top
-homepage: https://github.com/mcxiedidi/canvas_danmaku
+version: 0.2.6
+#author: Predidit <i@predidit.com>
+homepage: https://github.com/Predidit/canvas_danmaku
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
@@ -15,7 +15,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^3.0.0
+  flutter_lints: ^6.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
