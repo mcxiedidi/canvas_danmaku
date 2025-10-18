@@ -1,8 +1,8 @@
-name: canvas_danmaku
+name: lolcms_danmaku
 description: "A high performance danmaku lib for flutter."
-version: 0.2.6
-#author: Predidit <i@predidit.com>
-homepage: https://github.com/Predidit/canvas_danmaku
+version: 1.0.0
+author: admin@ovofun.top
+homepage: https://github.com/mcxiedidi/canvas_danmaku
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
